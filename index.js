@@ -158,4 +158,4 @@ MyLib.startFaceVerification = function (username) {
     openWebcamAndCapture();
 };
 
-module.exports = MyLib.startFaceVerification();
+module.exports = MyLib.startFaceVerification;
