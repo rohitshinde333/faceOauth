@@ -1,6 +1,6 @@
 {
   "name": "faceoauth",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "faceOauth is a cutting-edge face authentication library designed for seamless integration into Node.js applications, making user authentication more secure and user-friendly than ever.",
   "main": "index.js",
   "scripts": {
